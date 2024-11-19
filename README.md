@@ -1,16 +1,19 @@
-# assignments
+# Flutter Assignments
 
-A new Flutter project.
+**A collection of Flutter assignments demonstrating various features and implementations.**
 
-## Getting Started
+## Assignments
 
-This project is a starting point for a Flutter application.
+1. **Dynamic ListView**  
+   *Folder*: `dynamic_listview`  
+   *Description*: Implements a scrollable list with a circular avatar, title, and subtitle using `ListView.builder`.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**How to Run**  
+1. Navigate to the specific assignment folder.  
+2. Run `flutter pub get` to fetch dependencies.  
+3. Use `flutter run` to launch the app.
+
+---
